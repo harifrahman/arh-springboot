@@ -1,3 +1,16 @@
+# Arif learn Spring Boot
+
+## Feature
+
+- testng:7.5.1
+- springboot framework 3.1.4
+
+## How to run
+
+```shell
+./gradlew bootRun
+```
+
 ### Curriculum Plan for Online Bookstore Project
 
 1. **Project Setup**
