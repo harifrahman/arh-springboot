@@ -24,7 +24,9 @@ dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:32.1.1-jre'
 
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
